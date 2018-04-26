@@ -4,7 +4,7 @@ sarasApp.factory('saraData', function () {
        sara: {
            profilePicture: '/img/gallery/gallery5.jpeg',
            address: {
-               street: '829 Filbert St',
+               street: '',
                city: 'San Francisco',
                state: 'California',
                zip: '94133'
