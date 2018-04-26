@@ -7,7 +7,7 @@ sarasApp.factory('saraData', function () {
                street: '',
                city: 'San Francisco',
                state: 'California',
-               zip: '94133'
+               zip: ''
            }
        }
    }
