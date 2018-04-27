@@ -15,12 +15,12 @@ sarasApp.controller('WebWorkController',
                 },
                 {
                     name: 'Predix.io',
-                    url: 'www.predix.io',
+                    url: 'https://www.predix.io',
                     image: '/img/webWork/PredixIo.png'
                 },
                 {
                     name: 'Predix Console',
-                    url: 'www.predix.io',
+                    url: 'https://www.predix.io',
                     image: '/img/webWork/PredixConsole.png'
                 },
                 {
