@@ -14,7 +14,7 @@ sarasApp.controller('FooterController',
                 {
                     name: 'Instagram',
                     image: '/img/icons/instagram.png',
-                    url: 'www.instagram.com/scassella'
+                    url: 'https://www.instagram.com/scassella'
                 },
                 {
                     name: 'LinkedIn',
