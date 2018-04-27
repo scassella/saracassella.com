@@ -44,7 +44,7 @@ sarasApp.controller('AdobeController',
                     name: 'Miller Center Annual Report',
                     type: 'InDesign',
                     url: '/img/adobe/AnnualReport.png',
-                    pdf: '/img/adobe/Annual Report.pdf'
+                    pdf: '/img/adobe/AnnualReport.pdf'
                 }
             ]
         };
